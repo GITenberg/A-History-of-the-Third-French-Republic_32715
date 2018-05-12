@@ -1,0 +1,28 @@
+_repo: A-History-of-the-Third-French-Republic_32715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, C. H. C. (Charles Henry Conrad)
+    alias: Wright, Charles Henry Conrad
+    birthdate: 1869
+    deathdate: 1957
+    gutenberg_agent_id: '35997'
+    url: http://www.gutenberg.org/2009/agents/35997
+description: ''
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32715'
+  lccn: '16011591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Third Republic, 1870-1940'
+title: A History of the Third French Republic
+url: http://www.gutenberg.org/ebooks/32715
